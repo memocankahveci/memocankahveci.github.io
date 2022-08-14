@@ -1,0 +1,32 @@
+#form{
+    text-align: center;
+    margin-top: 1vw;
+    
+    
+    
+}
+#gl{
+    width: 400px;
+    margin-top: 20vw;
+     
+    
+    
+    
+    
+} 
+p {
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+
+#kel, #kel2, #kel3 {
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+}
+.advimg {
+    text-align: right;
+} 

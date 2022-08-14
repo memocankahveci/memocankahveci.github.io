@@ -1,0 +1,35 @@
+#form{
+    text-align: center;
+    margin-top: 1vw;
+    
+    
+    
+}
+#gl{
+    width: 170px;
+    
+     
+    
+    
+    
+    
+} 
+p {
+    
+}
+body {
+    background-color: black;
+}
+
+#kel2 {
+    background-color: dodgerblue;
+}
+
+.advimg {
+    text-align: right;
+} 
+
+#all, #exact, #any, #none {
+    width: 500px;
+    height: 40px;
+}
