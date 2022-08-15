@@ -27,7 +27,14 @@ body {
     border-radius: 15px;
     border:solid 1px black;
     padding:5px;
+    width: 500px;
+    height: 40px;
 }
 .advimg {
     text-align: right;
 } 
+
+.button {
+    width: 140px; 
+    height: 35px;
+}
