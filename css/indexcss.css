@@ -7,7 +7,7 @@
     
 }
 #gl{
-    width: 400px;
+    width: 300px;
     margin-top: 20vw;
      
     
@@ -22,7 +22,7 @@ body {
     background-color: black;
 }
 
-#kel, #kel2, #kel3 {
+#kel {
     -moz-border-radius: 15px;
     border-radius: 15px;
     border:solid 1px black;
